@@ -14,6 +14,7 @@ reproduction/
   02_scripts/    # R 脚本 (01_study1.R, 02_study2.R...)
   03_outputs/    # 导出的统计表 (CSV) 与 绘图 (PNG)
   04_logs/       # 样本量核对日志与报错记录
+```
 
 ## 2. 数据导入与清洗标准
 
