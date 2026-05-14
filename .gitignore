@@ -49,7 +49,6 @@ po/*~
 rsconnect/
 
 # Generated output
-data/processed/
 output/
 
 # OS junk
